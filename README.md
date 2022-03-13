@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<meta charset="utf-8">
+
 
 <style>
     body {
@@ -203,4 +201,3 @@
             }
         </script>
 </body>
-</html>
